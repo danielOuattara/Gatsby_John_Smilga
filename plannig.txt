@@ -1,0 +1,175 @@
+Intro 01:27
+Install gatsby-cli 02:00
+Setup New Project 05:38
+Project Structure 14:35
+First Page 08:44
+Error Page 02:35
+Nested Pages 03:40
+Links 06:40
+Navbar 05:05
+Layout Component 09:18
+CSS Info
+01:10
+Inline CSS
+01:40
+Global CSS
+05:34
+CSS Naming Issues
+03:49
+CSS Modules
+10:14
+Styled-Components
+12:47
+House Cleaning
+07:42
+Styles
+04:32
+Optional !!!
+00:06
+Footer
+03:26
+Error Page
+01:07
+Contact Page
+06:07
+Assets and Icons
+07:11
+Navbar Setup
+08:55
+Navbar Functionality
+04:40
+Gatsby Image Info
+03:39
+Sandbox Setup
+06:06
+Install Plugin
+03:39
+Static Image Setup
+07:26
+Shared Props and Options
+04:39
+Options Example
+07:50
+All Layouts
+06:19
+Height
+04:35
+About Page
+09:52
+Hero Page
+06:17
+Gatsby and GraphQL Intro
+03:20
+Gatsby DataLayer in a Nutshell
+01:41
+GraphiQL Interface
+06:15
+siteMetadata
+05:39
+First Query
+09:13
+Explorer
+02:05
+Static Query vs Page Query
+01:26
+useStaticQuery Hook - Code Exporter
+06:16
+useStaticQuery, graphql - From Scratch
+10:31
+Field Alias
+03:01
+Query Keyword, Name and Gatsby Clean
+03:13
+Page Query
+07:01
+Install SOURCE-FILESYSTEM Plugin
+10:13
+allFile - Field
+06:17
+Query Arguments
+08:13
+Static Path Fix
+01:23
+file - Field
+03:22
+sourceInstanceName - Argument
+02:08
+Gallery Setup
+03:51
+gatsbyImageData - Field
+08:09
+Render Gallery
+11:45
+getImage - Helper Function
+04:33
+Local vs External Data
+01:27
+Headless CMS
+01:59
+Contentful Info
+00:48
+Setup Contentful Account
+03:37
+Content-Type
+06:53
+Content
+07:29
+Connect Gatsby - Contentful
+05:00
+ENV Variables
+06:12
+allContentfulRecipe - Field
+07:09
+AllRecipes Component
+09:03
+RecipesList Component
+11:59
+Featured Recipes
+10:51
+Utils Setup
+04:57
+Helper Function
+07:40
+TagsList
+03:47
+Tags Page
+06:08
+Recipe Template Page Setup
+04:35
+Recipe Template Page Walkthrough
+09:03
+Slugify
+04:07
+Query Variables
+08:50
+Recipe Template Query
+07:22
+Recipe Template Return
+12:18
+GATSBY-NODE.JS Setup
+03:58
+Preview17:53
+Tag Template Return
+11:31
+Possible Bug Fix
+06:46
+Fonts
+05:47
+Contact Form
+04:36
+FAVICON
+02:07
+SEO - Setup
+06:17
+SEO - Props
+05:54
+SEO - Complete
+09:31
+Netlify Info
+00:53
+Netlify - Drag and Drop
+03:34
+Netlify - Continuous Deployment
+09:12
+Webhooks
+04:29
