@@ -1,15 +1,14 @@
 
 import React from 'react';
 import {Link} from 'gatsby';
-import Navbar from './../components/Navbar';
+import Layout from '../components/Layout';
 
 const about = () => {
     return (
-        <div>
-            <Navbar />
+        <Layout>
             <h2>This is The About Page</h2>
             <Link to="/">Go back Home </Link>
-        </div>
+        </Layout>
     );
 }
 
