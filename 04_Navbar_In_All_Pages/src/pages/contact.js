@@ -1,14 +1,12 @@
 
 import React, { Component } from 'react';
-import Navbar from './../components/Navbar';
-
+import Layout from '../components/Layout';
 export default class contact extends Component {
     render() {
         return (
-            <div>
-                <Navbar />
-                Contact page from class component                
-            </div>
+            <Layout>
+                <h2>Contact page from class component</h2>
+            </Layout>
         )
     }
 }
